@@ -1,3 +1,10 @@
 page-home {
+#topbuttons{
+    display: flex;
+    flex-direction: row;
+}
 
+#topbuttons button{
+    flex: 1;
+}
 }
